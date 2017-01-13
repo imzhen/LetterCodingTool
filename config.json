@@ -1,0 +1,38 @@
+{
+  "test": {
+    "dir": "data/test",
+    "fail_no_copy": "1",
+    "destination": "file",
+    "name": "test"
+  },
+  "run": {
+    "dir": "/Users/gsr/Documents/files/Letters_2440",
+    "fail_no_copy":"true",
+    "destination": "file",
+    "name": "run"
+  },
+  "debug": {
+    "dir": "data/debug",
+    "fail_no_copy":"1",
+    "destination": "file",
+    "name": "debug"
+  },
+  "development": {
+    "dir": "data/test",
+    "fail_no_copy": "1",
+    "destination": "file",
+    "name": "development"
+  },
+  "batch": {
+    "dir": "data/sample",
+    "fail_no_copy": "",
+    "destination": "file",
+    "name": "batch"
+  },
+  "server": {
+    "dir":"/home/research/ucrecruit/stem_letters/split/Letters_1",
+    "fail_no_copy": "1",
+    "destination": "remote",
+    "name": "server"
+  }
+}
